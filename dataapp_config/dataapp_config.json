@@ -1,5 +1,7 @@
 {
-  "app_id": "dataapp-QhbZeJKY",
-  "app_name": "data-service-example",
-  "app_type": "dataapi"
+  "app_id": "dataapp-WjUQGDsg",
+  "app_name": "Start with Git",
+  "app_type": "dataapp",
+  "description": "test",
+  "app_version": "1.0.0"
 }
