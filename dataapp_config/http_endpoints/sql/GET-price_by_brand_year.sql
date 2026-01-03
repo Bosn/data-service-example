@@ -11,3 +11,4 @@ ORDER BY
   `selling_price` DESC
 LIMIT
   10;
+

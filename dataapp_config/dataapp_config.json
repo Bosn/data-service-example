@@ -1,5 +1,7 @@
 {
   "app_id": "dataapp-KoVHJqsi",
   "app_name": "data-service-example",
-  "app_type": "dataapi"
+  "app_type": "dataapp",
+  "description": "test",
+  "app_version": "1.0.0"
 }
